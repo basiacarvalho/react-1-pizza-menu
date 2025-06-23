@@ -30,7 +30,7 @@
 ### Links
 
 - Source code repository URL: [Github](https://github.com/basiacarvalho/react-1-pizza-menu)
-- Live Site URL: [Live demo](https://basiacarvalho.github.io/javascript-course-bankist2/)
+- Live Site URL: [Live demo](https://basiacarvalho.github.io/react-1-pizza-menu/)
 
 ### Visuals
 
