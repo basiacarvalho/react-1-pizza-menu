@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/basiacarvalho/react-1-pizza-menu/static/css/main.ec313818.css",
+    "main.js": "/basiacarvalho/react-1-pizza-menu/static/js/main.f8c70b1e.js",
+    "index.html": "/basiacarvalho/react-1-pizza-menu/index.html",
+    "main.ec313818.css.map": "/basiacarvalho/react-1-pizza-menu/static/css/main.ec313818.css.map",
+    "main.f8c70b1e.js.map": "/basiacarvalho/react-1-pizza-menu/static/js/main.f8c70b1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec313818.css",
+    "static/js/main.f8c70b1e.js"
+  ]
+}
