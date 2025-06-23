@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/basiacarvalho/react-1-pizza-menu/static/css/main.ec313818.css",
-    "main.js": "/basiacarvalho/react-1-pizza-menu/static/js/main.f8c70b1e.js",
-    "index.html": "/basiacarvalho/react-1-pizza-menu/index.html",
-    "main.ec313818.css.map": "/basiacarvalho/react-1-pizza-menu/static/css/main.ec313818.css.map",
-    "main.f8c70b1e.js.map": "/basiacarvalho/react-1-pizza-menu/static/js/main.f8c70b1e.js.map"
+    "main.css": "/react-1-pizza-menu/static/css/main.ec313818.css",
+    "main.js": "/react-1-pizza-menu/static/js/main.f8c70b1e.js",
+    "index.html": "/react-1-pizza-menu/index.html",
+    "main.ec313818.css.map": "/react-1-pizza-menu/static/css/main.ec313818.css.map",
+    "main.f8c70b1e.js.map": "/react-1-pizza-menu/static/js/main.f8c70b1e.js.map"
   },
   "entrypoints": [
     "static/css/main.ec313818.css",
